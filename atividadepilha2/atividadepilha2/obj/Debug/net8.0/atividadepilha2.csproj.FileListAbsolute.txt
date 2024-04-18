@@ -1,0 +1,14 @@
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\atividadepilha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\atividadepilha2.AssemblyInfoInputs.cache
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\atividadepilha2.AssemblyInfo.cs
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\atividadepilha2.csproj.CoreCompileInputs.cache
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\bin\Debug\net8.0\atividadepilha2.exe
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\bin\Debug\net8.0\atividadepilha2.deps.json
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\bin\Debug\net8.0\atividadepilha2.runtimeconfig.json
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\bin\Debug\net8.0\atividadepilha2.dll
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\bin\Debug\net8.0\atividadepilha2.pdb
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\atividadepilha2.dll
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\refint\atividadepilha2.dll
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\atividadepilha2.pdb
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\atividadepilha2.genruntimeconfig.cache
+C:\Users\anala\source\repos\atividadepilha2\atividadepilha2\obj\Debug\net8.0\ref\atividadepilha2.dll
